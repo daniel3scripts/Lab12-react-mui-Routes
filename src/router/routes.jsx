@@ -2,6 +2,6 @@
 
 export const HOME = "/";
 
-export const ABOUT = "/about";
+export const ABOUT = "/about/:dl";
 
 export const ADMIN = "/admin";
